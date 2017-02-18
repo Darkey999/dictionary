@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Słownik</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Zwroty</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Kolory</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numery</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Rodzina</string>
+</resources>
